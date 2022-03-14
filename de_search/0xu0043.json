@@ -1,0 +1,9 @@
+[
+	{ "s": "CATEGORIA", "p": [3] },
+	{ "s": "CIUDAD", "p": [1] },
+	{ "s": "CLAVE", "p": [9] },
+	{ "s": "CLIENTES", "p": [12] },
+	{ "s": "COMERCIAL", "p": [1] },
+	{ "s": "COMPRA", "p": [7] },
+	{ "s": "CREAR", "p": [6, 4] }
+]

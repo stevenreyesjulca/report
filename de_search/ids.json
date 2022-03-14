@@ -1,0 +1,16 @@
+{
+	"1": ["Página p... ¡Se requiere una licencia Advanced!", "index.htm", []],
+	"2": ["1. Acceso ... ¡Se requiere una licencia Advanced!", "acceso_al_sistema.htm", []],
+	"3": ["2. Cat... ¡Se requiere una licencia Advanced!", "categoria.htm", []],
+	"4": ["2.1. ... ¡Se requiere una licencia Advanced!", "crear_1.htm", [2]],
+	"5": ["3. Pr... ¡Se requiere una licencia Advanced!", "producto.htm", []],
+	"6": ["3.1. ... ¡Se requiere una licencia Advanced!", "crear_2.htm", [3]],
+	"7": ["4. C... ¡Se requiere una licencia Advanced!", "compra.htm", []],
+	"8": ["5. V... ¡Se requiere una licencia Advanced!", "venta.htm", []],
+	"9": ["5.1. Emisión ... ¡Se requiere una licencia Advanced!", "emision_de_resultados.htm", [5]],
+	"10": ["5.2. Emisión de res... ¡Se requiere una licencia Advanced!", "emision_de_resultados_desde_movil.htm", [5]],
+	"11": ["6. Fact... ¡Se requiere una licencia Advanced!", "facturacion.htm", []],
+	"12": ["7. Cl... ¡Se requiere una licencia Advanced!", "clientes.htm", []],
+	"13": ["8. Pro... ¡Se requiere una licencia Advanced!", "proveedor.htm", []],
+	"14": ["9. Re... ¡Se requiere una licencia Advanced!", "reportes.htm", []]
+}

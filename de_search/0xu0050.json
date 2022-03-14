@@ -1,0 +1,9 @@
+[
+	{ "s": "PALABRA", "p": [9] },
+	{ "s": "PARA", "p": [9, 1] },
+	{ "s": "PENDIENTES", "p": [9] },
+	{ "s": "PRINCIPAL", "p": [1] },
+	{ "s": "PRODUCTO", "p": [5] },
+	{ "s": "PROVEEDOR", "p": [13] },
+	{ "s": "PÁGINA", "p": [1] }
+]
